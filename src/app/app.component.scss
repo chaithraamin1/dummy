@@ -1,0 +1,26 @@
+.row{
+    margin-top: 20px;
+}
+.form-upload{
+    background-color: white;
+    padding: 20px 30px;
+}
+.form-view-document{
+    background-color: white;
+    padding: 20px 30px;
+}
+.input-group label{
+  flex-basis: 30%;
+}
+.input-group label{
+    margin-top: 10px;
+    font-size: 15px;
+    // font-weight: bold;
+}
+.input-group input,select{
+    margin-top: 10px;
+}
+.input-group input{
+    border: 1px solid gray;
+    outline: none;
+}
